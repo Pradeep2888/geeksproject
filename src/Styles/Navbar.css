@@ -1,0 +1,23 @@
+.navbar_box{
+/* border: 1px solid red; */
+display: flex;
+justify-content: space-between;
+background-color: gainsboro;
+}
+.navbar_card-2{
+    display: flex;
+    gap: 1rem;
+    /* border: 1px solid yellow; */
+    width: 8rem;
+}
+.cart{
+    /* border: 1px solid green; */
+    /* background-color: gray; */
+}
+.cart_icon{
+    /* border: 1px solid blue; */
+    height: 100%;
+    width: 60%;
+    cursor: pointer;
+   
+}
